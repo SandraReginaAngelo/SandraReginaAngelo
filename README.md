@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandraReginaAngelo
-- 👀 I’m interested in knowledge about software building and methodology
-- 🌱 I’m currently learning Full Cycle
+- 👀 I’m interested in knowledge about software quality and building and methodology
+- 🌱 I’m currently learning automation
 - 
 
 <!---
